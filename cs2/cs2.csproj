@@ -5,12 +5,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <AssemblyName>asdasdsad</AssemblyName>
+    <AssemblyName>cs2cheat</AssemblyName>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <Platforms>AnyCPU;x64</Platforms>
     <Product></Product>
-    <Company>Losev Artyom</Company>
-    <Authors>Losev Artyom</Authors>
+    <Company></Company>
+    <Authors></Authors>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <Version>1.0.0.6</Version>
